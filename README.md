@@ -1,12 +1,12 @@
 # vrajthakore
 
-# 💫 About Me:
+# About Me 👨‍💻:
 🎮 From Code to Creation: Debugging My Way to Greatness! 🌐
 - I’m a game developer, web wizard, and self-proclaimed bug whisperer on a never-ending quest to turn caffeine into code.
 - With a passion for game mechanics, user experience, and pressing "Run" with fingers crossed, I thrive on crafting <br> immersive worlds and seamless web experiences.
 - When I’m not busy fixing one bug while spawning three more, I’m designing engaging gameplay loops, intuitive interfaces, <br> and software solutions that (mostly) behave as expected.
 - I work best in team-based co-op mode, managing time like a <br>speedrunner and leading initiatives without rage-quitting.
-- ⚡ Skills unlocked: Problem-solving, creative coding, and making "just one more tweak" for five hours straight.
+- Skills unlocked ⚡ : Problem-solving, creative coding, and making "just one more tweak" for five hours straight.
 - 💡 Let’s create something legendary (or at least something that compiles)! 🚀
 
 
