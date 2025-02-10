@@ -1,4 +1,4 @@
-# vrajthakore
+# Vraj Thakore
 
 # About Me 👨‍💻:
 🎮 From Code to Creation: Debugging My Way to Greatness! 🌐
